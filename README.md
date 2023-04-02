@@ -1,4 +1,5 @@
 # flutter_grpc_mock 🚀
+This is a sample for building a mock server in Dart for an application using Flutter and gRPC.
 
 ## Start a mock server
 
