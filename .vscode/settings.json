@@ -1,0 +1,7 @@
+{
+  "[proto3]": {
+    "editor.defaultFormatter": "xaver.clang-format"
+  },
+  "clang-format.style": "{ Language: Proto, BasedOnStyle: Google, AlignConsecutiveAssignments: true, AlignConsecutiveDeclarations: true }",
+  "cSpell.words": ["riverpod", "todos"]
+}

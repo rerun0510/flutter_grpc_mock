@@ -1,0 +1,10 @@
+version: "3.8"
+services:
+    grpc:
+      container_name: flutter-grpc-mock
+      build:
+        context: .
+        dockerfile: ./Dockerfile
+      volumes:
+        - .:/grpc 
+      command: bash generate.sh
